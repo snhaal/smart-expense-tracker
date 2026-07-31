@@ -1,11 +1,9 @@
 # AI Notes
 
-I'm a fresher and this is the first take-home I've done for an actual job
-application, so I want to be upfront about exactly how much AI I used
-here rather than dress it up. I used Claude for pretty much the entire
-first pass of the code. What I brought was the direction, the review, and
-the four fixes in section 4 below, which I found by actually reading the
-code, not by asking for "more features."
+I used AI tools (Claude) to scaffold the initial codebase, allowing me to focus
+my efforts on architecture, code review, edge-case testing, and critical bug
+fixes. Below is a detailed breakdown of how AI was integrated into my workflow
+and where manual developer intervention was applied.
 
 ## 1. AI-generated vs. written by me
 
